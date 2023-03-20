@@ -22,7 +22,7 @@
         "morgan": "^1.10.0",
         "pug": "^3.0.0",
         "serve-favicon": "^2.5.0",
-        "sqlite3": "^5.0.0"
+        "sqlite3": "^5.1.5"
     },
     "devDependencies": {
         "cross-env": "^7.0.2",

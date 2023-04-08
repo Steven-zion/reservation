@@ -53,4 +53,4 @@ The conversion:
 - Reorganize JavaScript and Stylesheets into logical directories
 - Converted HTML into Jade / Pug templates using http://html2jade.org/
 
-The front end should be mostly unchanged from the original.
+The front end should be mostly unchanged from the original

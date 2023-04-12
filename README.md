@@ -21,16 +21,6 @@ There are three routes:
 
 The server persists using a SQLite3 database named `database.sqlite` in the site root.
 
-## Development
-
-### Debugging
-
-This project uses https://www.npmjs.com/package/debug for development logging. To start `nodemon` and enable logging:
-
-```bash
-npm run debug
-```
-
 ## FAQ
 
 - Q: Why didn't you store the time submitted?
